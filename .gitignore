@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+final_house_price_model.pkl
+house_price_model.pkl
